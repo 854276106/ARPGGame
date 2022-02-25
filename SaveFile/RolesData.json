@@ -1,0 +1,24 @@
+{
+	"Roles": [
+		{
+			"Name": "test01",
+			"PassWord": "123",
+			"Score": 0
+		},
+		{
+			"Name": "test02",
+			"PassWord": "123",
+			"Score": 0
+		},
+		{
+			"Name": "test03",
+			"PassWord": "123",
+			"Score": 9
+		},
+		{
+			"Name": "test04",
+			"PassWord": "123",
+			"Score": 5
+		}
+	]
+}
